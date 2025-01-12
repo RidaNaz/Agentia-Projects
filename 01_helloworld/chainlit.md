@@ -27,8 +27,8 @@
 <h2>:label: Github Stats</h2>
 
 <div align="center">
-    <a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&repo=your-repository-name&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="Rida Naz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidaNaz&repo=Agentia-Projects&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
-    <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&repo=your-repository-name&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="Rida Naz Github Stats" src="https://github-readme-stats.vercel.app/api?username=RidaNaz&repo=Agentia-Projects&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
 </div>
