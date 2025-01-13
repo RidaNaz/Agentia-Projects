@@ -1,0 +1,12 @@
+langsmith
+langgraph
+langchain_community
+chainlit
+google-genai
+langgraph-checkpoint-postgres
+psycopg
+psycopg-pool
+psycopg-binary
+pydantic==2.8.2
+pydantic-settings==2.5.2
+packaging==23.2
